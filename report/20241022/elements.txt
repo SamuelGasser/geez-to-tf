@@ -1,0 +1,200 @@
+Inventory of tags and attributes in the source XML file(s).
+Contains the following sections:
+	Formatting Attributes
+	Keyword Attributes
+	Remaining Attributes and Elements
+
+
+
+Formatting Attributes
+
+Keyword Attributes
+
+	<div>              type=           1x edition
+
+	<fs>               type=         126x graphunit
+	                          "                    226x morpho
+	                          "                    126x tokens
+
+Remaining Attributes and Elements
+
+	<TEI>                              1x 
+
+	<ab>                               2x 
+
+	<body>                             1x 
+
+	<div>              id=             1x X
+	                   n=              1x N
+	                   resp=           1x Edition
+	                   style=          1x -
+
+	<f>                corresp=        1x #ETHNNNNDaken
+	                          "                      1x #ETHNNNNGema
+	                          "                      1x #ETHNNNNKasu-K
+	                          "                      1x #ETHNNNNSane
+	                          "                      1x #ETHNNNNSarane
+	                          "                      1x #ETHNNNNSawante
+	                          "                      1x #ETHNNNNZahtan
+	                          "                      1x #ETHNNNNbega
+	                          "                      1x #ETHNNNNseyamo
+	                          "                      2x #LOCNNNNAfan
+	                          "                      1x #LOCNNNNAksum
+	                          "                      1x #LOCNNNNAla
+	                          "                      1x #LOCNNNNHimyar
+	                          "                      1x #LOCNNNNRaydan
+	                          "                      1x #LOCNNNNSaba
+	                          "                      1x #LOCNNNNSado
+	                          "                      1x #LOCNNNNSalhen
+	                          "                      1x #PRSNNNNAstar
+	                          "                      1x #PRSNNNNBeher
+	                          "                      1x #PRSNNNNEzana
+	                          "                      2x #PRSNNNNMahrem
+	                          "                      1x #PRSNNNNMedr
+	                          "                      1x #PRSNNNNNAlita
+	                          "                      2x #PRSNNNNellaAm
+	                          "                      1x #PRSNNNNhalen
+	                   fVal=          14x N
+	                          "                      6x NN
+	                          "                      9x NNN
+	                          "                      1x NNNNN
+	                          "                      1x b
+	                          "                      2x ba
+	                          "                      1x bǝgā
+	                          "                      1x bǝʾsǝya
+	                          "                      3x bǝḥer
+	                          "                      1x daqiq
+	                          "                      1x daqq
+	                          "                      1x dākʷen
+	                          "                      1x dāḫǝna
+	                          "                      1x fannawna
+	                          "                      1x gafʿa
+	                          "                      1x gaʿazā
+	                          "                      1x gemā
+	                          "                      1x homu
+	                          "                      1x hu
+	                          "                      2x hā
+	                          "                      3x kona
+	                          "                      1x kāsu
+	                          "                      1x kǝlʾe
+	                          "                      8x la
+	                          "                      2x lahm
+	                          "                      1x lalli
+	                          "                      1x mahrakǝw
+	                          "                      1x manbara
+	                          "                      1x mangǝśt
+	                          "                      1x marād
+	                          "                      1x maḥazā
+	                          "                      2x maḥrǝm
+	                          "                      1x mǝdr
+	                          "                      1x mǝgbāʾa
+	                          "                      1x mǝhrǝkā
+	                          "                      2x mǝsle
+	                          "                      1x n
+	                          "                      2x na
+	                          "                      1x nagādi▧
+	                          "                      1x naqal
+	                          "                      1x naśat
+	                          "                      1x nǝguśa
+	                          "                      7x o
+	                          "                      2x omu
+	                          "                      1x qadā
+	                          "                      1x qafʾu
+	                          "                      1x qatal
+	                          "                      1x qatalna
+	                          "                      1x qatalǝw
+	                          "                      1x qǝtla
+	                          "                      1x raydān
+	                          "                      1x sabaʾ
+	                          "                      1x salḥen
+	                          "                      3x sarwe
+	                          "                      2x sarāwita
+	                          "                      1x saʿne
+	                          "                      1x sobe
+	                          "                      1x takalu
+	                          "                      1x talawna
+	                          "                      1x tamayṭu
+	                          "                      4x u
+	                          "                     41x wa
+	                          "                      1x walad
+	                          "                      2x walda
+	                          "                      1x wǝʾǝtu
+	                          "                      1x yǝtmawwāʾ
+	                          "                      1x yǝtnaqal
+	                          "                      1x yǝtnaśat
+	                          "                      1x yǝśiʾ
+	                          "                     12x za
+	                          "                      1x zamad
+	                          "                      1x zaḥtan
+	                          "                      1x zǝ
+	                          "                      1x zǝya
+	                          "                      1x śado
+	                          "                      2x ʾafān
+	                          "                      1x ʾakkoteta
+	                          "                      1x ʾaksum
+	                          "                      1x ʾalitā
+	                          "                      1x ʾamaḥaḍanǝw
+	                          "                      1x ʾangāda
+	                          "                      3x ʾanǝst
+	                          "                      1x ʾarbaʿtu
+	                          "                      1x ʾawfarna
+	                          "                      1x ʾay
+	                          "                      1x ʾaḥzābi
+	                          "                      1x ʾaḫazna
+	                          "                      1x ʾǝb
+	                          "                      1x ʾǝlle
+	                          "                      2x ʾǝm
+	                          "                      1x ʾǝmma
+	                          "                      1x ʾǝnsǝsā
+	                          "                      1x ʿamidā
+	                          "                      1x ʿastar
+	                          "                      1x ʿawd
+	                          "                      1x ʿezānā
+	                          "                      1x ʿālā
+	                          "                      3x ʿǝd
+	                          "                      1x ḍabaʾnā
+	                          "                      1x ḍabʾu
+	                          "                      1x ḍarr
+	                          "                      1x ḍewawǝw
+	                          "                      2x ḍewā
+	                          "                      1x ḥalen
+	                          "                      1x ḥarā
+	                          "                      1x ḥǝmer
+	                          "                      1x ḥǝzba
+	                          "                      1x ḫadarna
+	                          "                      1x ṣarane
+	                          "                      1x ṣawante
+	                          "                      1x ṣǝyāmo
+	                   name=         126x analysis
+	                          "                    104x case
+	                          "                      1x distance
+	                          "                    126x fidäl
+	                          "                    162x gender
+	                          "                    223x lex
+	                          "                    226x lit
+	                          "                     32x logogram
+	                          "                    162x number
+	                          "                     46x person
+	                          "                    226x pos
+	                          "                     62x state
+	                          "                     29x status
+	                          "                     27x tam
+	                          "                    126x translit
+
+	<fileDesc>                         1x 
+
+	<fs>               id=           126x X
+
+	<p>                                1x 
+
+	<publicationStmt>                  1x 
+
+	<sourceDesc>                       1x 
+
+	<teiHeader>                        1x 
+
+	<text>                             1x 
+
+	<title>                            1x 
+
+	<titleStmt>                        1x 

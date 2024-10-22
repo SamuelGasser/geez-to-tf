@@ -1,0 +1,14 @@
+OK  1 namespace for TEI              :     1x http://www.tei-c.org/ns/1.0
+OK  1 namespace for ab               :     2x http://www.tei-c.org/ns/1.0
+OK  1 namespace for body             :     1x http://www.tei-c.org/ns/1.0
+OK  1 namespace for div              :     1x http://www.tei-c.org/ns/1.0
+OK  1 namespace for f                :  1678x http://www.tei-c.org/ns/1.0
+OK  1 namespace for fileDesc         :     1x http://www.tei-c.org/ns/1.0
+OK  1 namespace for fs               :   478x http://www.tei-c.org/ns/1.0
+OK  1 namespace for p                :     1x http://www.tei-c.org/ns/1.0
+OK  1 namespace for publicationStmt  :     1x http://www.tei-c.org/ns/1.0
+OK  1 namespace for sourceDesc       :     1x http://www.tei-c.org/ns/1.0
+OK  1 namespace for teiHeader        :     1x http://www.tei-c.org/ns/1.0
+OK  1 namespace for text             :     1x http://www.tei-c.org/ns/1.0
+OK  1 namespace for title            :     1x http://www.tei-c.org/ns/1.0
+OK  1 namespace for titleStmt        :     1x http://www.tei-c.org/ns/1.0
